@@ -10,3 +10,88 @@
 .navbar-lewagon .navbar-brand img {
   width: 40px;
 }
+
+.banner {
+  color: white;
+  text-align: center;
+  height: 350px;
+  background-size: cover;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  padding-top: 100px;
+}
+
+.banner-content h1 {
+  font-family: 'Pacifico', cursive;
+}
+
+.card {
+  height: 150px;
+  background-size: cover;
+  box-shadow: 5px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  border-color: #E78123
+}
+
+.card-description {
+  font-size: 15px;
+  text-align: center;
+  align-items: center;
+  padding-top: 10px;
+
+}
+
+.card-description h4 {
+  font-family: 'Pacifico', cursive;
+}
+
+.new_cocktail {
+  margin-top: 20px;
+  color: black;
+  font-size: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+.new_cocktail a {
+  color: black;
+  margin-top: 10px;
+}
+
+.container {
+  margin-right: 50px;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.card-description a {
+  color: black
+}
+
+#new_cocktail {
+margin-left: 50px;
+margin-right: 50px;
+}
+
+.cocktail-options {
+  color: black;
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.cocktails-container {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+h2 #heading {
+  align-items: center;
+}
+
+
